@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/UN/sistemas_en_tiempo_real/examen/build/CMakeFiles/bootloader
+D:/UN/sistemas_en_tiempo_real/examen/build/CMakeFiles/bootloader.rule
+D:/UN/sistemas_en_tiempo_real/examen/build/CMakeFiles/bootloader-complete.rule
+D:/UN/sistemas_en_tiempo_real/examen/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/UN/sistemas_en_tiempo_real/examen/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/UN/sistemas_en_tiempo_real/examen/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/UN/sistemas_en_tiempo_real/examen/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/UN/sistemas_en_tiempo_real/examen/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/UN/sistemas_en_tiempo_real/examen/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/UN/sistemas_en_tiempo_real/examen/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
